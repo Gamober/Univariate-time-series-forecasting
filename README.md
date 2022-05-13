@@ -1,3 +1,2 @@
-# Time-series-data-forecast
-backup\
-Time-series-data-forecast by Pytorch\
+# Univariate time series forecasting
+Time-series-data-forecast by Pytorch
